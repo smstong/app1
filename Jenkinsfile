@@ -15,5 +15,10 @@ pipeline {
                 sh 'make'
             }
         }
+        stage('Test') {
+            steps {
+                sh './hello'
+            }
+        }
     }
 }
