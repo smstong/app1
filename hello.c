@@ -2,6 +2,6 @@
 
 int main(int argc, char** argv)
 {
-    printf("Hello, world! poll from github\n");
+    printf("Hello, world! Jenkinsfile added\n");
     return 0;
 }
