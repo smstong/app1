@@ -3,6 +3,6 @@
 int main(int argc, char** argv)
 {
     printf("Hello, world! Jenkinsfile added\n");
-    printf("Trigger another build in jenkins.\n");
+    printf("test github webhook to trigger jenkins");
     return 0;
 }
